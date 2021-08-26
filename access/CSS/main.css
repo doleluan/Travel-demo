@@ -1,7 +1,7 @@
 .main{
     width: 100%;
     height: 800px;
-    background-image:url(/access/img/parallax-2.jpg);
+    background-image:url(/Travel-demo/access/img/parallax-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -362,7 +362,7 @@ z-index: -9;
 	width: 100%;
     margin: 50px 0;
 	height: 240px;
-	background-image: url(/access/img/parallax-search-2.jpg);
+	background-image: url(/Travel-demo/access/img/parallax-search-2.jpg);
 }
 .destination_view-body{
 	display: flex;
@@ -496,7 +496,7 @@ z-index: -9;
     background-repeat: no-repeat;
     width: 100%;
     height: 75%;
-	background-image: url(/access/img/parallax-search-2.jpg);
+	background-image: url(/Travel-demo/access/img/parallax-search-2.jpg);
 }
 .beaches_picture-time{
     width: 60%;
@@ -574,7 +574,7 @@ z-index: -9;
     background-size: cover;
     background-repeat: no-repeat;
     background-position:center;
-    background-image: url(/access/img/parallax-5-filter.jpg);
+    background-image: url(/Travel-demo/access/img/parallax-5-filter.jpg);
 }
 .beaches_footer-nature{
     display: flex;
@@ -840,7 +840,7 @@ margin-bottom: 5px;
 /* footer */
 .footer-travel{
     margin-top: 80px;
-    background-image: url(/access/img/parallax-7.jpg);
+    background-image: url(/Travel-demo/access/img/parallax-7.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
